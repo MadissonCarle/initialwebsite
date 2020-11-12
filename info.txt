@@ -1,0 +1,7 @@
+google fonts= font for website for css
+a complex guid to flexbox (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+figma= planing website
+brackets.io= where written 
+pro free host = domain provider
+WinSCP = SFTP/FTP client (connects data with internet domain)
+	to upload files I used the file manager on fro free host (Monsta)
